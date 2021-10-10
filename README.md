@@ -1,7 +1,7 @@
 
 # DOM
 
-### [[Github Pages](https://igor-chazov.github.io/...)]
+#### [![Build status](https://ci.appveyor.com/api/projects/status/r145e14nkvkq1rfs?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-hw-dom-moving-an-item) [[Github Pages](https://igor-chazov.github.io/ahj-hw-dom-moving-an-item/)]
 
 ### Перемещение элемента
 
